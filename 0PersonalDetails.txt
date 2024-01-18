@@ -1,0 +1,8 @@
+Name:Aashutosh Karale
+Project:RCR Android Application
+Project Theme: Component Itinerary Management
+Objective: To digitalize the electronics hardware component transactions within the RNXG Robotics Club.
+Tech Stack: Java, Android, XML, Firebase (For Database & Authentication)
+Career Aspiration: To Serve the country as being an integral part of it by solving the real world problems with my technical and analytical skills.
+Goal: To be in a manegarial position from here after some years.
+Subject of Interest: Artificial Intillegence, Computer Hardware, GPU, etc.

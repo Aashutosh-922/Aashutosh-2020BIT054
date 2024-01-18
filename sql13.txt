@@ -1,0 +1,3 @@
+SELECT FROM CUSTOMERS;
+IN City;
+UPDATE City == 'Mumbai' HAVING City == 'Delhi';

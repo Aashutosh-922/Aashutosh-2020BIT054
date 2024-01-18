@@ -1,0 +1,5 @@
+SELECT Salary, ID, Fullname;
+MAX(Salary) ms;
+ORDER BY ms;
+SELECT ms;
+

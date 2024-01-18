@@ -1,0 +1,5 @@
+SELECT FROM LOGS;
+Datetime, log;
+WHERE Datetime<'2023-01-18';
+DELETE;
+
